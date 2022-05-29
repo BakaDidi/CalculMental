@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calcul Game</string>
+    <string name="button_partie">New game</string>
+    <string name="textView_choosegamemode">Choose a Gamemode</string>
+    <string name="button_classic">CLASSIC</string>
+    <string name="button_training">TRAINING</string>
+    <string name="button_scores">SCORES</string>
+    <string name="message_valeur_trop_grande"> Value too high</string>
+    <string name="valeur_correcte"> That\'s true !</string>
+    <string name="valeur_incorrecte"> That\'s wrong :(</string>
+    <string name="view_score"> Score : %1$d</string>
+    <string name="view_errors"> Errors remaining : %1$d </string>
+    <string name="result"> </string>
+    <string name="time"> Time Elapsed ! </string>
+    <string name="button_del">Del</string>
+    <string name="Score_Saved">Score Saved !</string>
+    <string name="Error_Saved">Error when saving !</string>
+    <string name="nodata">No data</string>
+    <string name="points">Points</string>
+    <string name="classic">Classic</string>
+    <string name="save">Save</string>
+    <string name="urname">Username</string>
+</resources>

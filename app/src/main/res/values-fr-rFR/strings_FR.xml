@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu de Calcul</string>
+    <string name="button_partie">Nouvelle partie</string>
+    <string name="textView_choosegamemode">Mode de jeu</string>
+    <string name="button_classic">Classique</string>
+    <string name="button_training">Entraînement</string>
+    <string name="button_scores">SCORES</string>
+    <string name="message_valeur_trop_grande"> Valeur trop grande !</string>
+    <string name="valeur_correcte"> Bonne réponse !</string>
+    <string name="valeur_incorrecte"> Mauvaise réponse…</string>
+    <string name="view_score"> Score : %1$d</string>
+    <string name="view_errors"> Erreur restante : %1$d </string>
+    <string name="result"> </string>
+    <string name="time"> Temps écoulé ! </string>
+    <string name="button_del">Suppr</string>
+    <string name="Score_Saved">Score enregistré !</string>
+    <string name="Error_Saved">Erreur lors de l\'enregistrement…</string>
+    <string name="nodata">No data</string>
+    <string name="points">Points</string>
+    <string name="classic">Classique</string>
+    <string name="save">Valider</string>
+    <string name="urname">Pseudo</string>
+</resources>
